@@ -5,8 +5,8 @@ document.addEventListener("DOMContentLoaded", () => {
 
   const seqCount = {
     "INT3D-1": 152,
-    "INT3D-2": 1364,
-    "INT3D-3": 694,
+    "INT3D-2": 694,
+    "INT3D-3": 1363,
   }
 
   const showVideo = (id) => {
