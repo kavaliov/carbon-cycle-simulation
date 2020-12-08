@@ -9,6 +9,7 @@ const PRECACHE_URLS = [
   "./src/timeline.css",
   "./src/cycle.js",
   "./src/cycle.css",
+  "./service-worker.js"
 ];
 
 // The install handler takes care of precaching the resources we always need.
