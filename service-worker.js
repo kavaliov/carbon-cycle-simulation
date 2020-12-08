@@ -2,9 +2,9 @@ const PRECACHE = 'precache-v1';
 const RUNTIME = 'runtime';
 
 const PRECACHE_URLS = [
-  'index.html',
+  './index.html',
   './',
-  '../main/Carbon_cycle_main.mp4',
+  './media/Carbon_cycle_main.mp4',
   "./src/timeline.js",
   "./src/timeline.css",
   "./src/cycle.js",
