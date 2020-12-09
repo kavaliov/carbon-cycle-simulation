@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a820c6c9-2c4d-4df8-b633-940bd09df2f7" name="Default Changelist" comment="sw">
+    <list default="true" id="a820c6c9-2c4d-4df8-b633-940bd09df2f7" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/service-worker.js" beforeDir="false" afterPath="$PROJECT_DIR$/service-worker.js" afterDir="false" />
     </list>
@@ -52,7 +52,7 @@
       <workItem from="1606317512134" duration="260000" />
       <workItem from="1606318206270" duration="4440000" />
       <workItem from="1606484291529" duration="807000" />
-      <workItem from="1607464776308" duration="1393000" />
+      <workItem from="1607464776308" duration="3053000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1606323610300</created>
@@ -82,7 +82,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607465994555</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="sw">
+      <created>1607466224135</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1607466224136</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
