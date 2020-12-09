@@ -9,7 +9,7 @@ const PRECACHE_URLS = [
   "./src/cycle.js",
   "./src/cycle.css",
   "./service-worker.js",
-  './media/Carbon_cycle_main.mp4',
+  './media/img.png',
   "./media/INT3D-1/INT3D-1.0000.jpg",
   "./media/INT3D-1/INT3D-1.0017.jpg",
   "./media/INT3D-1/INT3D-1.0034.jpg",
