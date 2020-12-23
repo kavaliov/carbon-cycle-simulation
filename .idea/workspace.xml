@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a820c6c9-2c4d-4df8-b633-940bd09df2f7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -11,6 +12,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SET_USER_NAME_GLOBALLY" value="false" />
   </component>
   <component name="ProjectId" id="1kmlNrd1a3YYvHBfPAjRH2epndp" />
   <component name="ProjectLevelVcsManager">
@@ -53,7 +55,8 @@
       <workItem from="1606318206270" duration="4440000" />
       <workItem from="1606484291529" duration="807000" />
       <workItem from="1607464776308" duration="3982000" />
-      <workItem from="1608720696929" duration="102000" />
+      <workItem from="1608720696929" duration="160000" />
+      <workItem from="1608721416901" duration="17000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1606323610300</created>
@@ -97,7 +100,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607505593297</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="video">
+      <created>1608720831313</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1608720831313</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -113,11 +123,13 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init" />
     <MESSAGE value="media update" />
     <MESSAGE value="sw" />
-    <option name="LAST_COMMIT_MESSAGE" value="sw" />
+    <MESSAGE value="video" />
+    <option name="LAST_COMMIT_MESSAGE" value="video" />
   </component>
 </project>
